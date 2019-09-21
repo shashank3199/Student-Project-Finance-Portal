@@ -19,12 +19,12 @@ Every year, students’ projects of MIT are allotted a fixed budget. All the pur
 - [Repository Description](#repository-description)
 - [UI Design](#ui-design)
 
-## Tools -
+## Tools
 
 - <b>Front End</b>: [Java](https://www.eclipse.org/windowbuilder/).
 - <b>Back End</b>: [Oracle Database](https://www.oracle.com/in/database/).
 
-## Data Tables -
+## Data Tables
 
 - <b>Faculty Advisor</b>:<br> 
 
@@ -140,20 +140,20 @@ This folder contains the Output images for the README.
 ## UI Design
 
 Welcome Page: <br> 
-[!Image](./.UI_Output/1.png) <br>
+![Image1](./.UI_Output/1.png) <br>
 Sign Up Page (Team Member): <br>
-[!Image](./.UI_Output/2.png) <br>
+![Image2](./.UI_Output/2.png) <br>
 Sign Up Page(Faculty): <br>
-[!Image](./.UI_Output/3.png) <br>
+![Image3](./.UI_Output/3.png) <br>
 Log In Page (Team Member): <br>
-[!Image](./.UI_Output/4.png) <br>
+![Image4](./.UI_Output/4.png) <br>
 Log In Page (Faculty): <br>
-[!Image](./.UI_Output/5.png) <br>
+![Image5](./.UI_Output/5.png) <br>
 Member Page: <br>
-[!Image](./.UI_Output/6.png) <br>
+![Image6](./.UI_Output/6.png) <br>
 Add Bills: <br>
-[!Image](./.UI_Output/7.png) <br>
+![Image7](./.UI_Output/7.png) <br>
 Faculty Page: <br>	
-[!Image](./.UI_Output/8.png) <br>
+![Image8](./.UI_Output/8.png) <br>
 
 [![Developers Tag]( https://img.shields.io/badge/Developer-shashank3199-red.svg ) ]( https://github.com/shashank3199 )
